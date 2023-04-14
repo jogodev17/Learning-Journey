@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassDataApp", "PassDataApp\PassDataApp.csproj", "{DA5318D4-CD2D-472F-AC94-0DB26CF80730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA5318D4-CD2D-472F-AC94-0DB26CF80730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5318D4-CD2D-472F-AC94-0DB26CF80730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5318D4-CD2D-472F-AC94-0DB26CF80730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5318D4-CD2D-472F-AC94-0DB26CF80730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1426064-3101-4FB4-B1B6-D2680E2E27B4}
+	EndGlobalSection
+EndGlobal

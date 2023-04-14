@@ -1,0 +1,11 @@
+C:\Users\jogod\source\repos\PassDataApp\PassDataApp\bin\Debug\PassDataApp.exe.config
+C:\Users\jogod\source\repos\PassDataApp\PassDataApp\bin\Debug\PassDataApp.exe
+C:\Users\jogod\source\repos\PassDataApp\PassDataApp\bin\Debug\PassDataApp.pdb
+C:\Users\jogod\source\repos\PassDataApp\PassDataApp\obj\Debug\PassDataApp.csproj.AssemblyReference.cache
+C:\Users\jogod\source\repos\PassDataApp\PassDataApp\obj\Debug\PassDataApp.Form1.resources
+C:\Users\jogod\source\repos\PassDataApp\PassDataApp\obj\Debug\PassDataApp.Form2.resources
+C:\Users\jogod\source\repos\PassDataApp\PassDataApp\obj\Debug\PassDataApp.Properties.Resources.resources
+C:\Users\jogod\source\repos\PassDataApp\PassDataApp\obj\Debug\PassDataApp.csproj.GenerateResource.cache
+C:\Users\jogod\source\repos\PassDataApp\PassDataApp\obj\Debug\PassDataApp.csproj.CoreCompileInputs.cache
+C:\Users\jogod\source\repos\PassDataApp\PassDataApp\obj\Debug\PassDataApp.exe
+C:\Users\jogod\source\repos\PassDataApp\PassDataApp\obj\Debug\PassDataApp.pdb
